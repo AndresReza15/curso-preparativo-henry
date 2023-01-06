@@ -1,2 +1,3 @@
 # curso-preparativo-henry
-este es un repositorio de  prueba del modulo 2
+jefferson andres reza es un programor ni el hp
+
